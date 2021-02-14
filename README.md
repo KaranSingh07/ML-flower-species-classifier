@@ -1,5 +1,5 @@
 # ML-flower-species-classifier
-## Supervised Learning Classification Problem
+## Supervised Learning Classification Project
 ### The Description is as follows...
 - It takes data of various flowers, each flower having length of petals and sepals (part of a flower).
 - Each flower is labelled with its species, there are total of 3 species (or classes)
