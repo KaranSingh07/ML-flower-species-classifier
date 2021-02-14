@@ -1,7 +1,7 @@
 # **Flower Species Classifier**
+## A Supervised Machine Learning Classification Project
     By Karan Singh Solanki as ShapeAI ML Bootcamp Project
 ---
-## A Supervised Machine Learning Classification Project
 ### It uses iris_dataset (iris plants dataset) of sklearn datasets
 ### Description...
 - It takes data of various flowers, each flower having length of petals and sepals (part of a flower).
