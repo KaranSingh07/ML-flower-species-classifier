@@ -11,4 +11,4 @@
 
 ### The task is, whenever a new flower data is given to the model, it should predict the species of the new flower.
 
-#### **Note:** The "ML Flower Species Classifier K-Nearest Neighbour.ipynb" and "main.py" are same code. The former is with a good explanation of what's going on with proper documentation and explanation. The latter is only python code without any documentation
+#### **Note:** The "ML Flower Species Classifier K-Nearest Neighbour.ipynb" and "main.py" are same code. The former is with a good explanation of what's going on with proper documentation and explanation. The latter is only python code without any documentation.
